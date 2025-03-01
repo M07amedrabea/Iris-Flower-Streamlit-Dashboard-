@@ -9,7 +9,7 @@ This is a simple web application for classifying **Iris Flower species** using a
 1. **Clone the repository** or download the script:
 
    ```bash
-   git clone <repository_url>
+   git clone [<repository_url>](https://github.com/M07amedrabea/Iris-Flower-Streamlit-Dashboard-.git)
    cd <repository_folder>
    ```
 
